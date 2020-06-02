@@ -1,2 +1,2 @@
 # Game-Reinforcement
-Game Reinforcement on MARIO using Q Lhearning 
+Game Reinforcement on MARIO using Q Learning 
